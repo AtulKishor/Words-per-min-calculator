@@ -1,7 +1,5 @@
 
-## Author
 
-* Alexander Wilson alexpwilson2@gmail.com
 
 ## Description
 This React App is typing speed test. To run enter the typing-speed folder and use 
