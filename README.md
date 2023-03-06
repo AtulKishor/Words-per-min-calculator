@@ -2,7 +2,7 @@
 
 
 ## Description
-This React App is typing speed test. To run enter the typing-speed folder and use 
+This React App is typing speed test. To run go to the typing-speed folder and use 
 npm run start
 
 
